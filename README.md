@@ -48,4 +48,4 @@ The user can get the evidence data.
 
 ## License
 
-Spartan-Electronic-Evidence Contract is released under the [Spartan License](https://github.com/BSN-Spartan/NFT/blob/main/LICENSE).
+Spartan-Electronic-Evidence Contract is released under the [Spartan License](https://github.com/BSN-Spartan/Beginner-Level-Contracts/blob/main/Spartan%20License.md).
